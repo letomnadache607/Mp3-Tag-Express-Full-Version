@@ -239,3 +239,6 @@ This repository serves as the official landing page for MP3 Tag Express. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MP3 Tag Express today!**
+
+---
+**Last updated:** 2026-09-11 08:35:00 UTC
